@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-temp-server",
+  "version": "1.0.0",
+  "description": "A node.js server for MPEG temperature manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^1.29.0",
+    "firebase-admin": "^5.4.3",
+    "telebot": "^1.2.3"
+  }
+}
